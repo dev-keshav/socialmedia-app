@@ -25,37 +25,37 @@ const Right = () => {
                     <ImageListItem gap={5}>
                         <img
                             src={require('../images/img1.jpg')}
-                        />
+                            alt="Girl in a jacket" />
                     </ImageListItem>
 
                     <ImageListItem gap={5}>
                         <img
                             src={require('../images/img2.jpg')}
-                        />
+                            alt="Girl in a jacket"/>
                     </ImageListItem>
 
                     <ImageListItem gap={5}>
                         <img
                             src={require('../images/img3.jpg')}
-                        />
+                            alt="Girl in a jacket"/>
                     </ImageListItem>
 
                     <ImageListItem gap={5}>
                         <img
                             src={require('../images/img4.jpg')}
-                        />
+                            alt="Girl in a jacket"/>
                     </ImageListItem>
 
                     <ImageListItem gap={5}>
                         <img
                             src={require('../images/img5.jpg')}
-                        />
+                            alt="Girl in a jacket"/>
                     </ImageListItem>
 
                     <ImageListItem gap={5}>
                         <img
                             src={require('../images/img6.jpg')}
-                        />
+                            alt="Girl in a jacket"/>
                     </ImageListItem>
                 </ImageList>
 
